@@ -3,3 +3,6 @@ A repository for the "Flat Infinite Research Cost" modification for the game Fac
 
 # What will be changed by this mod?
 This mod allows you to set a fix value for the costs of infinite research technologies instead of the increasing vanilla prices. It should be compatible with any mods that don't change the infinite research costs, but custom infinite researches added by other mods might also be affected by this mod.
+
+# Installation
+You can get the zip files to do a manual installation in the https://github.com/Begovere/factorio-mod-releases repository.
