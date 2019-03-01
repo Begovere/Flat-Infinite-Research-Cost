@@ -1,0 +1,10 @@
+{
+  "name": "FlatInfiniteResearchCost",
+  "version": "1.4.0",
+  "factorio_version": "0.16",
+  "title": "Flat Infinite Research Cost",
+  "author": "Begovere, _Gamma_Gaming_",
+  "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=62419",
+  "homepage": "https://github.com/Begovere/Flat-Infinite-Research-Cost",
+  "description": "This mod allows you to set a fix value for the costs of infinite research technologies instead of the increasing vanilla prices. Created with the help of the reddit user _Gamma_Gaming_"
+}
